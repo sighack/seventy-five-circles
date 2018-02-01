@@ -1,6 +1,7 @@
 # Seventy-Five Ways to Draw a Circle
 
 An exploration on drawing a simple circle generatively in seventy five different ways.
+A companion article for this repo can be found [here](http://sighack.com/post/seventy-five-ways-to-draw-a-circle)
 
 |                                   |                                  |
 |-----------------------------------|----------------------------------|
